@@ -2,6 +2,8 @@
 
 授课教师: Andrew Ng & Kian Katanforoosh
 
+本课程主要分为两部分：校园讲座和在线讲座。在线部分就是由DeepLearning.ai制作的深度学习网络课程；校园讲座的内容不同于在线部分，讨论的内容会更偏策略一些。编程作业都是线上进行的。
+
 课程主页：http://cs230.stanford.edu/
 
 In-Class Lecture地址：http://onlinehub.stanford.edu/cs230
@@ -9,13 +11,13 @@ In-Class Lecture地址：http://onlinehub.stanford.edu/cs230
 Online Lecture地址：ttps://www.coursera.org/specializations/deep-learning
 
 
-## Course 1: Neural Networks and Deep Learning
-Learning objectives:
+## DeepLearning.ai在线课程
+### 课程1: Neural Networks and Deep Learning
+学习目标:
 - Understand the major technology trends driving Deep Learning
 - Be able to build, train and apply fully connected deep neural networks 
 - Know how to implement efficient (vectorized) neural networks 
 - Understand the key parameters in a neural network's architecture 
-
 Syllabus:
 - Week 1: Introduction to deep learning
 - Week 2: Neural Networks Basics
