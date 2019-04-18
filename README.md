@@ -13,61 +13,44 @@ Online Lecture地址：ttps://www.coursera.org/specializations/deep-learning
 
 ## DeepLearning.ai在线课程
 ### 课程1: Neural Networks and Deep Learning
-学习目标:
-- Understand the major technology trends driving Deep Learning
-- Be able to build, train and apply fully connected deep neural networks 
-- Know how to implement efficient (vectorized) neural networks 
-- Understand the key parameters in a neural network's architecture 
-Syllabus:
+内容:
 - Week 1: Introduction to deep learning
 - Week 2: Neural Networks Basics
 - Week 3: Shallow neural networks
 - Week 4: Deep Neural Networks
 
-## Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-Learning objectives:
-- Understand industry best-practices for building deep learning applications. 
-- Be able to effectively use the common neural network "tricks", including initialization, L2 and dropout regularization, Batch normalization, gradient checking, 
-- Be able to implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence. 
-- Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance
-- Be able to implement a neural network in TensorFlow
-
-Syllabus:
+### 课程2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+内容:
 - Week 1: Practical aspects of Deep Learning(Initialization, Regularization and Gradient Check)
 - Week 2: Optimization algorithms
 - Week 3: Hyperparameter tuning, Batch Normalization and Programming Frameworks (Introduction to Tensorflow)
 
-## Course 3: Structuring Machine Learning Projects
-Learning objectives:
-- Understand how to diagnose errors in a machine learning system, and 
-- Be able to prioritize the most promising directions for reducing error
-- Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
-- Know how to apply end-to-end learning, transfer learning, and multi-task learning
-
-Syllabus:
+### 课程3: Structuring Machine Learning Projects
+内容:
 - Week 1: ML Strategy (1)
 - Week 2: ML Strategy (2)
 
-## Course 4: Convolutional Neural Networks
-Learning objectives:
-- Understand how to build a convolutional neural network, including recent variations such as residual networks.
-- Know how to apply convolutional networks to visual detection and recognition tasks.
-- Know to use neural style transfer to generate art.
-- Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data
-
-Syllabus:
+### 课程4: Convolutional Neural Networks
+内容:
 - Week 1: Foundations of Convolutional Neural Networks
 - Week 2: Deep convolutional models: case studies
 - Week 3: Object detection
 - Week 4: Special applications: Face recognition & Neural style transfer
 
-## Course 5: Sequence Models
-Learning objectives:
-- Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
-- Be able to apply sequence models to natural language problems, including text synthesis. 
-- Be able to apply sequence models to audio applications, including speech recognition and music synthesis
-
-Syllabus:
+### 课程5: Sequence Models
+内容:
 - Week 1: Recurrent Neural Networks
 - Week 2: Natural Language Processing & Word Embeddings
 - Week 3: Sequence models & Attention mechanism
+
+## 校园讲座
+1. Class introduction & Logistics
+2. Deep Learning Intuition
+3. Full-cycle of a Deep Learning Project
+4. Adversarial Attacs / gam
+5. AI+ Healthcare
+6. Deep Learning Project strategy - Case studies
+7. Interpretability of Neural Network
+8. Career Advice / Reading Research Papers
+9. Deep Reinforcement Learning
+10. Chatbots / Closing Remarks
