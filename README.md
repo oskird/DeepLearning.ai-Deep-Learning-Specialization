@@ -8,7 +8,7 @@
 
 In-Class Lecture地址：http://onlinehub.stanford.edu/cs230
 
-Online Lecture地址：ttps://www.coursera.org/specializations/deep-learning
+Online Lecture地址：https://www.coursera.org/specializations/deep-learning
 
 
 ## DeepLearning.ai在线课程
