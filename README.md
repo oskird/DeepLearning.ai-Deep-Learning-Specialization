@@ -47,7 +47,7 @@ Online Lecture地址：https://www.coursera.org/specializations/deep-learning
 1. Class introduction & Logistics
 2. Deep Learning Intuition
 3. Full-cycle of a Deep Learning Project
-4. Adversarial Attacs / gam
+4. Adversarial Attacs / GANs
 5. AI+ Healthcare
 6. Deep Learning Project strategy - Case studies
 7. Interpretability of Neural Network
