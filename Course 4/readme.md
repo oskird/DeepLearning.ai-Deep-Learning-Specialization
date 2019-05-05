@@ -1,2 +1,4 @@
+pre-trained model download
+
 Module 2 - ResNet50: https://www.kaggle.com/keras/resnet50
 Module 3 - YOLO: https://pan.baidu.com/s/1MfYJ7OKwCW5__FFc0xbnDg 提取码：jj0l
