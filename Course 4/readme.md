@@ -1,4 +1,4 @@
-# pre-trained model & data download
+# 大型文件下载地址
 
 - Module 2 - ResNet50: 
   - 下载地址：https://www.kaggle.com/keras/resnet50
