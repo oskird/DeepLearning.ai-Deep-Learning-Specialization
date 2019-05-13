@@ -2,7 +2,7 @@
 
 授课教师: Andrew Ng & Kian Katanforoosh
 
-本课程主要分为两部分：校园讲座和在线讲座。在线部分就是由DeepLearning.ai制作的深度学习网络课程，包括所有的在线编程作业；校园讲座的内容与在线部分不重叠，一半lecture会讨论偏策略的内容，剩下几个lecture讲了GANs、强化学习、聊天机器人等主题。
+课程主要分为两部分：校园讲座和在线讲座。在线部分就是由DeepLearning.ai制作的深度学习网络课程，包括所有的在线编程作业；校园讲座的内容与在线部分不重叠，一半lecture会讨论偏策略的内容，剩下几个lecture讲了GANs、强化学习、聊天机器人等主题。
 
 课程主页：http://cs230.stanford.edu/
 
