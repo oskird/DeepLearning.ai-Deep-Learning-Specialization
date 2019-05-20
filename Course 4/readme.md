@@ -1,6 +1,6 @@
 # 大型文件下载地址
 
-- Module 2 - ResNet50: 
+- Module 2 - ResNet50
   - 下载地址：https://www.kaggle.com/keras/resnet50
   - 放置路径：Course 4/2 Deep convolutional models case studies/Resnets/
 
