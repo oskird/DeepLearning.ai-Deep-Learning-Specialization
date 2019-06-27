@@ -5,11 +5,11 @@
   - 放置路径：Course 4/2 Deep convolutional models case studies/Resnets/
 
 - Module 3 - YOLO
-  - 下载地址：https://pan.baidu.com/s/1MfYJ7OKwCW5__FFc0xbnDg 提取码：jj0l
+  - 下载地址：https://pan.baidu.com/s/1dInzr4OW0Mta8n-gNXDGYA 提取码：75fn
   - 放置路径：Course 4/3 Object detection/model_data/
 
 - Module 3 - image data: 
-  - 下载地址：https://pan.baidu.com/s/1j2-Vey5z6xY7vf4lwxRnGg 提取码：lw1d
+  - 下载地址：https://pan.baidu.com/s/15C_5l1fk1rA6Ztw9iXBitg 提取码：buya
   - 放置路径：Course 4/3 Object detection/
 
 - Module 4 - VGG 19
@@ -17,5 +17,5 @@
   - 放置路径：Course 4/4  Face recognition & Neural style transfer/Art generation with Neural Style Transfer
 
 - Module 4 - Dataset for Face Recognition
-  - 下载地址：https://pan.baidu.com/s/1B8JYdfdEj_El4IsJyEqOnA 提取码：vcck
-  - 放置路径：Course 4\4  Face recognition & Neural style transfer\Art generation with Neural Style Transfer
+  - 下载地址：https://pan.baidu.com/s/1qLrrP4PsH60p2Bb06-8VxQ 提取码：87h9
+  - 放置路径：Course 4\4  Face recognition & Neural style transfer\Face Recognition for the Happy House
