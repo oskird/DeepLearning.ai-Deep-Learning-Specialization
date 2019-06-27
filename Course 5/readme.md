@@ -1,6 +1,6 @@
 # 大型文件下载地址
 
-- Module 2 - glove.6B.50d：
+- Module 2 - glove.6B.50d
   - 下载地址：https://www.kaggle.com/watts2/glove6b50dtxt
   - 放置路径1：Course 5/Natural Language Processing & Word Embeddings/Word Vector Representation/data
   - 放置路径2：Course 5/Natural Language Processing & Word Embeddings/Emojify/data
