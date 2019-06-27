@@ -6,5 +6,5 @@
   - 放置路径2：Course 5/Natural Language Processing & Word Embeddings/Emojify/data
   
 - Module 3 - Trigger Word utils
-  - 下载地址：https://pan.baidu.com/s/1RzOQq32f_v9ZZ0VxYXQWPw 提取码：6bci
+  - 下载地址：https://pan.baidu.com/s/1H4Sm3l11-9fanpieNSvP1Q 提取码：nr2l
   - 放置路径：Course 5/3 Sequence models & Attention mechanism/Trigger Word Detection
