@@ -33,6 +33,7 @@
 - Week 2: Natural Language Processing & Word Embeddings
 - Week 3: Sequence models & Attention mechanism
 
+**推荐课程笔记**：http://kyonhuang.top/Andrew-Ng-Deep-Learning-notes/#/
 
 ## 附：Stanford CS 230 Deep Learning
 课程主要分为两部分：校园讲座和在线讲座。在线部分就是由DeepLearning.ai制作的深度学习网络课程，包括所有的在线编程作业；校园讲座的内容与在线部分不重叠，一半lecture会讨论偏策略的内容，另一半讲了GANs、强化学习、聊天机器人等技术，整体难度大于在线课程部分。
