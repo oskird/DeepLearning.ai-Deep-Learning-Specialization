@@ -1,17 +1,7 @@
-# 斯坦福大学CS230 Deep Learning
+#  DeepLearning.ai在线课程
 
-授课教师: Andrew Ng & Kian Katanforoosh
+授课教师: Andrew Ng
 
-课程主要分为两部分：校园讲座和在线讲座。在线部分就是由DeepLearning.ai制作的深度学习网络课程，包括所有的在线编程作业；校园讲座的内容与在线部分不重叠，一半lecture会讨论偏策略的内容，剩下几个lecture讲了GANs、强化学习、聊天机器人等主题。
-
-课程主页：http://cs230.stanford.edu/
-
-In-Class Lecture地址：http://onlinehub.stanford.edu/cs230
-
-Online Lecture地址：https://www.coursera.org/specializations/deep-learning
-
-
-## DeepLearning.ai在线课程
 ### 课程1: Neural Networks and Deep Learning
 内容:
 - Week 1: Introduction to deep learning
@@ -43,7 +33,17 @@ Online Lecture地址：https://www.coursera.org/specializations/deep-learning
 - Week 2: Natural Language Processing & Word Embeddings
 - Week 3: Sequence models & Attention mechanism
 
-## 校园讲座
+
+## 附：Stanford CS 230 Deep Learning
+课程主要分为两部分：校园讲座和在线讲座。在线部分就是由DeepLearning.ai制作的深度学习网络课程，包括所有的在线编程作业；校园讲座的内容与在线部分不重叠，一半lecture会讨论偏策略的内容，剩下几个lecture讲了GANs、强化学习、聊天机器人等主题。
+
+课程主页：http://cs230.stanford.edu/
+
+In-Class Lecture地址：http://onlinehub.stanford.edu/cs230
+
+Online Lecture地址：https://www.coursera.org/specializations/deep-learning
+
+### 校园讲座内容(Spring 2019)
 1. Class introduction & Logistics
 2. Deep Learning Intuition
 3. Full-cycle of a Deep Learning Project
